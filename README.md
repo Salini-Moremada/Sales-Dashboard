@@ -37,8 +37,3 @@ The dashboard enables stakeholders to make **data-driven decisions** by visualiz
 - Treemaps and bubble charts for sub-category analysis  
 
 ---
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sales-dashboard.git
