@@ -18,7 +18,7 @@ The dashboard enables stakeholders to make **data-driven decisions** by visualiz
 ---
 
 ## Tools & Technologies
-- **Power BI / Tableau** – Dashboard creation and visualization  
+- **Power BI** – Dashboard creation and visualization  
 - **Excel** – Data cleaning and preprocessing  
 - **Python (Pandas, Matplotlib, Seaborn)** – Advanced analysis and visualization  
 
